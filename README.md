@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abhi4260
-- 👀 I’m interested in ...web development
+- 👀 I’m interested in ...web development and User Interface
 - 🌱 I’m currently learning ...web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
